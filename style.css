@@ -59,10 +59,11 @@
 }
 .home-right-content
 {
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 83px;
+    margin-top: 115px;
 }
 .home-right-content img 
 {
